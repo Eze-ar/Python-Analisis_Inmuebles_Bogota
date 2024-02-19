@@ -5,4 +5,4 @@ Durante 4 clases trabajamos con un dataset de inmuebles a la venta en la ciudad 
 
 En mi caso también usé para convertir de str a float la librería de Expresiones Regulares: 're'
 
-El proyecto se llevó a cabo usando la herramienta de Google Collab.
+El proyecto se llevó a cabo usando la herramienta de Google Colab.
